@@ -12,7 +12,6 @@ namespace WindowsFormsAppKep
 {
     public partial class Form1 : Form
     {
-        List<Image> Images;
         public Form1()
         {
             InitializeComponent();
